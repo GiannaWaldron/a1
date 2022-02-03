@@ -4,7 +4,7 @@ blockquote {
 
 blockquote p {
     padding: 15px;
-    background: #eee;
+    background: rgb(201, 160, 160);
     border-radius: 5px;
 }
 
