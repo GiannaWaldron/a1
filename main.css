@@ -18,3 +18,6 @@ blockquote p::after {
 small {
     font-size: .7em
 }
+samp {
+    font-weight: bold;
+}
