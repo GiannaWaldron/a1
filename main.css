@@ -21,3 +21,6 @@ small {
 samp {
     font-weight: bold;
 }
+li {
+    list-style-type: circle;
+}
