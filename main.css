@@ -3,9 +3,9 @@ blockquote {
 }
 
 blockquote p {
-    padding: 15px;
-    background: rgb(201, 160, 160);
-    border-radius: 5px;
+    padding: 25px;
+    background: rgb(163, 81, 81);
+    border-radius: 10px;
 }
 
 blockquote p::before {
@@ -14,4 +14,7 @@ blockquote p::before {
 
 blockquote p::after {
     content: '\201D';
+}
+small {
+    font-size: .7em
 }
